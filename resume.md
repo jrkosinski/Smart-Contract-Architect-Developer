@@ -103,3 +103,12 @@ Other
 * Strong Focus on Smart Contract Security
 
 
+Non-Work Interests 
+----------
+* Meditation 
+* Fitness
+* Learning/Reading
+* Financial Trading & Investment 
+* Travelling 
+* Parenting
+
