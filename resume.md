@@ -49,6 +49,7 @@ Experience
 **[AxiomSys](https://www.axiomsys.com/)**
 
 **Technical Consultant, 2022-present**
+_Solidity, Solana, Unity, Blockchain, Architecture, Presentation, Documentation_
 
 Senior technical consultant to a blockchain development startup based in Poland. 
 
@@ -57,70 +58,33 @@ Senior technical consultant to a blockchain development startup based in Poland.
 * Contacted, vetted, and interviewed smart contract developers, laying the foundations for an elite international team of blockchain warriors.
 * Developed, planned, and documented a methodology for security audits of smart contracts.
 * Provided expert technical consultation during sales meetings. 
+* Architected a prototype integration of NFTs and tokens with a Unity game front-end.
 ----
 
 **[Krewnime NFT](https://opensea.io/collection/krewnime)**
+_Solidity, Solana, NFT_
 
 Developed NFT contracts for artist Krewnime, for Ethereum, Polygon, and Solana. 
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Developed base smart contract in Solidity using best practices and a high degree of testing. 
+* Developed auxiliary contracts to service the NFT contract in Solidity. 
+* Developed a Solana version of the NFT using metaplex. 
+* Deployed the NFTs to Opensea and Magic Eden. 
 ----------
 
-**Crypto Arbitrade Trading Bot**
+**Crypto Arbitrage Algo Trading Bot**
+_Javascript, NodeJS, ReactJS, C++, Trading, Arbitrage, Defi_
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Architected and developed a crypto arbitrage algorithmic trading bot. 
 
-* First item
+* Architected and planned, with input from client, requirements and specifications of arbitrage system.
+* Architected modular structure to interact with cefi exchanges such as bitfinex, bitmex, and bittrex, and defi exchanges such as binance DEX.
+* Developed and tested wildly profitable system in nodeJS with C++ extensions. 
+----------
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Open Source Contributions
 ----------------------------------------
+[ERC721A](https://github.com/chiru-labs/ERC721A/pull/407) 
 
 
 Articles
