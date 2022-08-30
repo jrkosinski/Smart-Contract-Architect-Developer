@@ -8,6 +8,41 @@ John R. Kosinski
 
 ----
 
+Blockchains
+----------
+* Ethereum 
+* Polygon 
+* Avalanche 
+* Solana 
+
+Programming Languages
+----------
+* Solidity 
+* EVM Assembly
+* Rust 
+* C++ 
+* C# 
+* Javascript
+* Python
+
+Web3
+----------
+* Javascript 
+* NodeJS
+* ReactJS
+* ethers
+* web3
+* solana/web3
+
+Tools
+----------
+* Hardhat 
+* Truffle 
+* Mythril
+* Slither
+* Echidna 
+* Unity
+
 Experience
 ----------
 
@@ -22,21 +57,17 @@ Senior technical consultant to a blockchain development startup based in Poland.
 * Contacted, vetted, and interviewed smart contract developers, laying the foundations for an elite international team of blockchain warriors.
 * Developed, planned, and documented a methodology for security audits of smart contracts.
 * Provided expert technical consultation during sales meetings. 
+----
 
-============
+**[Krewnime NFT](https://opensea.io/collection/krewnime)**
 
-**Krewnime NFT**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Developed NFT contracts for artist Krewnime, for Ethereum, Polygon, and Solana. 
 
 * First item
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
-
-============
+----------
 
 **Crypto Arbitrade Trading Bot**
 
