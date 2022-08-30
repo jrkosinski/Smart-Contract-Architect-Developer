@@ -3,28 +3,25 @@ John R. Kosinski
 
 ----
 
->  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. For a full resume, see [here](John-R-Kosinski.pdf).\
->  This file is to specifically highlight my smart contract and blockchain-related experience. 
+>  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. \
+>  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).\
 
 ----
 
 Experience
 ----------
 
-**AxiomSys**
+**[AxiomSys](https://www.axiomsys.com/)**
 
-Technical Consultant
+**Technical Consultant, 2022-present**
 
-2022
+Senior technical consultant to a blockchain development startup based in Poland. 
 
-[AxiomSys.com](https://www.axiomsys.com/)
-
-Acted as a technical consultant to a startup based in Poland -> -> 
-
-* went to meetings 
-* developed coding templates 
-* developed project outlines and estimates
-* consulted 
+* Planned and estimated project packages for non-fungible and fungible token development, front-end minting and administration websites with React, and security audits of smart contracts.
+* Researched and planned the integration of fungible and non-fungible tokens with the Unity game engine back end of a well-known online meeting venue.
+* Contacted, vetted, and interviewed smart contract developers, laying the foundations for an elite international team of blockchain warriors.
+* Developed, planned, and documented a methodology for security audits of smart contracts.
+* Provided expert technical consultation during sales meetings. 
 
 ============
 
