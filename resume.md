@@ -3,31 +3,32 @@ John R. Kosinski
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. For a full resume, see [here](John-R-Kosinski.pdf).\
+>  This file is to specifically highlight my smart contract and blockchain-related experience. 
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**AxiomSys**
+
+Technical Consultant
+
+2022
+
+[AxiomSys.com](https://www.axiomsys.com/)
+
+Acted as a technical consultant to a startup based in Poland -> -> 
+
+* went to meetings 
+* developed coding templates 
+* developed project outlines and estimates
+* consulted 
+
+============
+
+**Krewnime NFT**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -38,9 +39,18 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+============
 
-Also with a short description.
+**Crypto Arbitrade Trading Bot**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
 
 Technical Experience
 --------------------
