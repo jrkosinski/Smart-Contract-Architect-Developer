@@ -4,7 +4,7 @@ John R. Kosinski
 ----
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. \
->  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).\
+>  This file is to specifically highlight my nascent smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).\
 
 ----
 
@@ -122,17 +122,20 @@ Programming Languages
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
-* Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Articles
+----------
+* [4 NFT Design Anti-Patterns](https://hackernoon.com/4-common-nft-contract-design-anti-patterns)
+* https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1  
+* https://www.toptal.com/ethereum/ethereum-solidity-oracle-contracts-pt2  
+* https://www.toptal.com/ethereum/oracle-contracts-tutorial-pt3 
 
-* Random tidbit
 
-* Other sort of impressive-sounding thing you did
+Other
+----------
+* Former US Marine 
+* Good Communication & Writing Skills 
+* Enjoys Documentation 
+* Strong Focus on Smart Contract Security
 
-----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
