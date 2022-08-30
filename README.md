@@ -49,6 +49,7 @@ Experience
 **[AxiomSys](https://www.axiomsys.com/)**
 
 **Technical Consultant, 2022-present**
+
 _Solidity, Solana, Unity, Blockchain, Architecture, Presentation, Documentation_
 
 Senior technical consultant to a blockchain development startup based in Poland. 
@@ -62,6 +63,7 @@ Senior technical consultant to a blockchain development startup based in Poland.
 ----
 
 **[Krewnime NFT](https://opensea.io/collection/krewnime)**
+
 _Solidity, Solana, NFT_
 
 Developed NFT contracts for artist Krewnime, for Ethereum, Polygon, and Solana. 
@@ -73,6 +75,7 @@ Developed NFT contracts for artist Krewnime, for Ethereum, Polygon, and Solana.
 ----------
 
 **Crypto Arbitrage Algo Trading Bot**
+
 _Javascript, NodeJS, ReactJS, C++, Trading, Arbitrage, Defi_
 
 Architected and developed a crypto arbitrage algorithmic trading bot. 
