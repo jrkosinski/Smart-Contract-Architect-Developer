@@ -93,6 +93,7 @@ Open Source Contributions
 Articles
 ----------
 * [4 NFT Design Anti-Patterns](https://hackernoon.com/4-common-nft-contract-design-anti-patterns)
+* [The Case Against Upgradeability in Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts) 
 * https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1  
 * https://www.toptal.com/ethereum/ethereum-solidity-oracle-contracts-pt2  
 * https://www.toptal.com/ethereum/oracle-contracts-tutorial-pt3 
@@ -100,9 +101,9 @@ Articles
 
 Other
 ----------
-* Former US Marine 
 * Good Communication & Writing Skills 
 * Enjoys Documentation 
+* Former US Marine 
 * Strong Focus on Smart Contract Security
 
 
