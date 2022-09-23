@@ -4,7 +4,7 @@ John R. Kosinski
 ----
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. \
->  This file is to specifically highlight my nascent smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).
+>  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).
 
 ----
 
@@ -117,10 +117,11 @@ Non-Work Interests
 * Parenting
 
 
-
+**Code Samples**
 - [Early work from the Early Days](https://github.com/jrkosinski/crypto-champ) 
 - [Ethernaut CTF](https://github.com/jrkosinski/Ethernaut)
-- [The Dumples NFT](https://github.com/jrkosinski/TheDumples-NFT)
 - [Krewnime NFT](https://github.com/jrkosinski/Krewnime-NFT) 
+- [Radium](https://github.com/jrkosinski/Radium) 
 - [Project Templates](https://github.com/jrkosinski/bc-templates) 
 - [ERC721A](https://github.com/jrkosinski/ERC721A) 
+- [The Dumples NFT](https://github.com/jrkosinski/TheDumples-NFT)
