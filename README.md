@@ -117,7 +117,7 @@ Non-Work Interests
 * Parenting
 
 
-**Code Samples**
+## Code Samples
 - [Early work from the Early Days](https://github.com/jrkosinski/crypto-champ) 
 - [Ethernaut CTF](https://github.com/jrkosinski/Ethernaut)
 - [Krewnime NFT](https://github.com/jrkosinski/Krewnime-NFT) 
