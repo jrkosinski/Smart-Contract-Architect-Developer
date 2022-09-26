@@ -87,7 +87,7 @@ Architected and developed a crypto arbitrage algorithmic trading bot.
 
 Open Source Contributions
 ----------------------------------------
-[ERC721A](https://github.com/chiru-labs/ERC721A/pull/407) 
+* [ERC721A](https://github.com/chiru-labs/ERC721A/pull/407) 
 
 
 Articles
@@ -98,6 +98,11 @@ Articles
 * https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1  
 * https://www.toptal.com/ethereum/ethereum-solidity-oracle-contracts-pt2  
 * https://www.toptal.com/ethereum/oracle-contracts-tutorial-pt3 
+
+
+Certifications
+--------------
+* https://www.coursera.org/account/accomplishments/specialization/ZS5RKNZ26UAB
 
 
 Other
