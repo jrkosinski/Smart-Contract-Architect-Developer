@@ -120,7 +120,6 @@ Non-Work Interests
 * Learning/Reading
 * Financial Trading & Investment 
 * Travelling 
-* Parenting
 
 
 ## Code Samples
