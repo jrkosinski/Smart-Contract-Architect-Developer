@@ -46,13 +46,24 @@ Tools
 Experience
 ----------
 
+**[Garbles Labs](https://github.com/garbles-labs/)**
+
+**November 2022**
+
+_Solana, .NET, C#, defi_
+
+* Created a .NET client SDK for a well-known on-chain Solana automated market maker. 
+
+----
+
+
 **[AxiomSys](https://www.axiomsys.com/)**
 
 **Technical Consultant, 2022-present**
 
 _Solidity, Solana, Unity, Blockchain, Architecture, Presentation, Documentation_
 
-Senior technical consultant to a blockchain development startup based in Poland. 
+Senior technical consultant to a blockchain development startup. 
 
 * Planned and estimated project packages for non-fungible and fungible token development, front-end minting and administration websites with React, and security audits of smart contracts.
 * Researched and planned the integration of fungible and non-fungible tokens with the Unity game engine back end of a well-known online meeting venue.
@@ -88,6 +99,7 @@ Architected and developed a crypto arbitrage algorithmic trading bot.
 Open Source Contributions
 ----------------------------------------
 * [ERC721A](https://github.com/chiru-labs/ERC721A/pull/407) 
+* [Solana.Unity](https://github.com/garbles-labs/Solana.Unity-Core)
 
 
 Articles
