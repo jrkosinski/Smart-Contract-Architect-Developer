@@ -130,7 +130,7 @@ Certifications
 
 Other
 ----------
-* Good Communication & Writing Skills 
+* Excellent Communication & Writing Skills 
 * Enjoys Documentation 
 * Former US Marine 
 * Strong Focus on Smart Contract Security
