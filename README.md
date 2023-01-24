@@ -46,9 +46,19 @@ Tools
 Experience
 ----------
 
+**[Stream Finance](https://github.com/garbles-labs/)**
+
+**December 2022**
+
+_Solidity, Javascript, Echidna, defi_
+
+* Created an on-chain credit facility backed by short-term US Treasury Bonds. 
+
+----
+
 **[Garbles Labs](https://github.com/garbles-labs/)**
 
-**November 2022**
+**November 2022 - December 2022**
 
 _Solana, .NET, C#, defi_
 
@@ -98,6 +108,7 @@ Architected and developed a crypto arbitrage algorithmic trading bot.
 
 Open Source Contributions
 ----------------------------------------
+- [.NET client for Orca Whirlpools (Solana)](https://github.com/garbles-labs/Orca.Unity-SDK)
 * [ERC721A](https://github.com/chiru-labs/ERC721A/pull/407) 
 * [Solana.Unity](https://github.com/garbles-labs/Solana.Unity-Core)
 
@@ -135,6 +146,8 @@ Non-Work Interests
 
 
 ## Code Samples
+- [EVM Credit Investment Instrument](https://github.com/jrkosinski/stream-finance/)
+- [.NET client for Orca Whirlpools (Solana)](https://github.com/garbles-labs/Orca.Unity-SDK)
 - [Early work from the Early Days](https://github.com/jrkosinski/crypto-champ) 
 - [Ethernaut CTF](https://github.com/jrkosinski/Ethernaut)
 - [Krewnime NFT](https://github.com/jrkosinski/Krewnime-NFT) 
