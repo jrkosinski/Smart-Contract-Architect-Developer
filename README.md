@@ -132,6 +132,7 @@ Other
 ----------
 * Excellent Communication & Writing Skills 
 * Enjoys Documentation 
+* A major nerd
 * Former US Marine 
 * Strong Focus on Smart Contract Security
 
