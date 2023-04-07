@@ -4,7 +4,7 @@ John R. Kosinski
 ----
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. \
->  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf).
+>  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf) (may not be up to date).
 
 ----
 
@@ -46,13 +46,19 @@ Tools
 Experience
 ----------
 
-**[Stream Finance](https://github.com/garbles-labs/)**
+**[Stream Finance](https://app.appstreamprotocol.money/)**
 
 **December 2022**
 
 _Solidity, Javascript, Echidna, defi_
 
-* Created an on-chain credit facility backed by short-term US Treasury Bonds. 
+* Created one of the first of its kind, an on-chain credit facility backed by short-term US Treasury Bonds on BSC and Ethereum chains. 
+[https://etherscan.io/address/0xd86FFB404147163e19E010a0e9d4995E0e36F335](https://etherscan.io/address/0xd86FFB404147163e19E010a0e9d4995E0e36F335#code)
+[https://etherscan.io/address/0xADF789E61Bf38c463e4bA5B2B6E9C1Af6659e11b](https://etherscan.io/address/0xADF789E61Bf38c463e4bA5B2B6E9C1Af6659e11b#code)
+[https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48#code)
+[https://etherscan.io/address/0x746430119DA3EA0e398b93059e96F21bfabAa8a4](https://etherscan.io/address/0x746430119DA3EA0e398b93059e96F21bfabAa8a4#code)
+[https://etherscan.io/address/0xD48425B7fb702F571D872f4b7046B30c9FA47e15](https://etherscan.io/address/0xD48425B7fb702F571D872f4b7046B30c9FA47e15#code)
+[https://etherscan.io/address/0xf284B55F46B9A0Fe7d79ce92F869Ac52b9B3Ff7c](https://etherscan.io/address/0xf284B55F46B9A0Fe7d79ce92F869Ac52b9B3Ff7c#code)
 
 ----
 
@@ -147,7 +153,7 @@ Non-Work Interests
 
 
 ## Code Samples
-- [EVM Credit Investment Instrument](https://github.com/jrkosinski/stream-finance/)
+- [EVM Credit Investment Instrument](https://github.com/jrkosinski/evm-bond-vault/)
 - [.NET client for Orca Whirlpools (Solana)](https://github.com/garbles-labs/Orca.Unity-SDK)
 - [Early work from the Early Days](https://github.com/jrkosinski/crypto-champ) 
 - [Ethernaut CTF](https://github.com/jrkosinski/Ethernaut)
