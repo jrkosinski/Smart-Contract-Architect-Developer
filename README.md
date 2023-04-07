@@ -121,6 +121,7 @@ Open Source Contributions
 
 Articles
 ----------
+* [SecurityManager Design Pattern in Solidity](https://medium.com/@john.kosinski/security-manager-design-pattern-in-solidity-d8851779cb6d) 
 * [Ethernaut's new Challenge](https://hackernoon.com/good-samaritan-the-new-ethernaut-ctf-challenge)
 * [4 NFT Design Anti-Patterns](https://hackernoon.com/4-common-nft-contract-design-anti-patterns)
 * [The Case Against Upgradeability in Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts) 
