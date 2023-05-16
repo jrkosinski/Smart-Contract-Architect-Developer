@@ -4,13 +4,16 @@ John R. Kosinski
 ----
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. \
->  This file is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf) (may not be up to date).
+
+>  The purpose of this document is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf) (may not be up to date).
 
 ----
 
 Blockchains
 ----------
 * Ethereum 
+* Binance SmartChain
+* Tron
 * Polygon 
 * Avalanche 
 * Solana 
@@ -18,16 +21,17 @@ Blockchains
 Programming Languages
 ----------
 * Solidity 
-* EVM Assembly
+* Vyper
+* Yul
 * Rust 
 * C++ 
 * C# 
-* Javascript
+* Javascript/Typescript
 * Python
 
 Web3
 ----------
-* Javascript 
+* Javascript/Typescript
 * NodeJS
 * ReactJS
 * ethers
@@ -38,9 +42,9 @@ Tools
 ----------
 * Hardhat 
 * Truffle 
+* Echidna 
 * Mythril
 * Slither
-* Echidna 
 * Unity
 
 Experience
@@ -128,6 +132,7 @@ Articles
 * https://www.toptal.com/ethereum/ethereum-oracle-contracts-tutorial-pt1  
 * https://www.toptal.com/ethereum/ethereum-solidity-oracle-contracts-pt2  
 * https://www.toptal.com/ethereum/oracle-contracts-tutorial-pt3 
+* [Medium Articles](https://medium.com/@john.kosinski) 
 
 
 Certifications
@@ -138,9 +143,8 @@ Certifications
 Other
 ----------
 * Excellent Communication & Writing Skills 
-* Enjoys Documentation 
-* A major nerd
-* Former US Marine 
+* Creates Good Documentation
+* Experience in Machine Learning and Statistics 
 * Strong Focus on Smart Contract Security
 
 
@@ -156,7 +160,6 @@ Non-Work Interests
 ## Code Samples
 - [EVM Credit Investment Instrument](https://github.com/jrkosinski/evm-bond-vault/)
 - [.NET client for Orca Whirlpools (Solana)](https://github.com/garbles-labs/Orca.Unity-SDK)
-- [Early work from the Early Days](https://github.com/jrkosinski/crypto-champ) 
 - [Ethernaut CTF](https://github.com/jrkosinski/Ethernaut)
 - [Krewnime NFT](https://github.com/jrkosinski/Krewnime-NFT) 
 - [Radium](https://github.com/jrkosinski/Radium) 
