@@ -5,7 +5,7 @@ John R. Kosinski
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. 
 
->  The purpose of this document is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John-R-Kosinski.pdf) (may not be up to date).
+>  The purpose of this document is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John.R.Kosinski.pdf) 
 
 ----
 
