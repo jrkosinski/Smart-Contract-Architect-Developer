@@ -13,15 +13,17 @@ Blockchains
 ----------
 * Ethereum 
 * Binance SmartChain
-* Tron
+* Sui
+* Solana 
 * Polygon 
 * Avalanche 
-* Solana 
+* Tron
 
 Programming Languages
 ----------
 * Solidity 
 * Vyper
+* Move
 * Yul
 * Rust 
 * C++ 
@@ -63,6 +65,18 @@ _Solidity, Javascript, Echidna, defi_
 [https://etherscan.io/address/0x746430119DA3EA0e398b93059e96F21bfabAa8a4](https://etherscan.io/address/0x746430119DA3EA0e398b93059e96F21bfabAa8a4#code)
 [https://etherscan.io/address/0xD48425B7fb702F571D872f4b7046B30c9FA47e15](https://etherscan.io/address/0xD48425B7fb702F571D872f4b7046B30c9FA47e15#code)
 [https://etherscan.io/address/0xf284B55F46B9A0Fe7d79ce92F869Ac52b9B3Ff7c](https://etherscan.io/address/0xf284B55F46B9A0Fe7d79ce92F869Ac52b9B3Ff7c#code)
+
+----
+
+**[Sui/Unity Integration]**
+
+**In Progress**
+
+_Sui, Move, Unity, Typescript, C#_
+
+* Deployed Token and NFTs to the SUI blockchain
+* Create a secured REST API to provide access to SUI blockchain objects
+* Integrated SUI implementation with Unity game code 
 
 ----
 
