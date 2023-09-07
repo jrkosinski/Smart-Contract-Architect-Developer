@@ -56,6 +56,8 @@ Experience
 - Aeritas: Ensuring and attesting to the provenance of internet media using the blockchain and an attendant suite of tools (multiple chains)
 - Loadpipe: Economics in a blockchain marketplace (EVM chains) 
 
+----
+
 **[Stream Finance](https://app.appstreamprotocol.money/)**
 
 **December 2022**
