@@ -140,8 +140,8 @@ Architected and developed a crypto arbitrage algorithmic trading bot.
 
 Certifications & Awards
 --------------
-* 2023 ETHOnline Hackathon, 3 prizes
 * AWS Certified Solutions Architect (Associate)
+* 2023 ETHGlobal Hackathon, [3 prizes](https://ethglobal.com/showcase/zeppelinfinance-gvawn) 
 * https://www.coursera.org/account/accomplishments/specialization/ZS5RKNZ26UAB
 
   
