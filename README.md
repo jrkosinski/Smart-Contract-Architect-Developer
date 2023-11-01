@@ -155,8 +155,10 @@ Articles
 * [Medium Articles](https://medium.com/@john.kosinski) 
 
 
-Certifications
+Certifications & Awards
 --------------
+* 2023 ETHOnline Hackathon, 3 prizes
+* AWS Certified Solutions Architect (Associate)
 * https://www.coursera.org/account/accomplishments/specialization/ZS5RKNZ26UAB
 
 
