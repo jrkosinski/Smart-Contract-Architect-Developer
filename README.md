@@ -5,7 +5,7 @@ John R. Kosinski
 
 >  A developer/architect with experience in development, leadership, and mentorship across many different areas of technology, and many different industries. 
 
->  The purpose of this document is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](John.R.Kosinski.pdf) 
+>  The purpose of this document is to specifically highlight my smart contract and blockchain-related experience. For a full resume, please see [here](https://docs.google.com/document/d/1-X6QhFP83nIl_avZ45H3wm2ADwJjylPy/edit?usp=sharing&ouid=109813198755338903567&rtpof=true&sd=true) 
 
 ----
 
@@ -18,6 +18,7 @@ Blockchains
 * Polygon 
 * Avalanche 
 * Tron
+* Scroll
 
 Programming Languages
 ----------
@@ -136,6 +137,14 @@ Architected and developed a crypto arbitrage algorithmic trading bot.
 * Developed and tested wildly profitable system in nodeJS with C++ extensions. 
 ----------
 
+
+Certifications & Awards
+--------------
+* 2023 ETHOnline Hackathon, 3 prizes
+* AWS Certified Solutions Architect (Associate)
+* https://www.coursera.org/account/accomplishments/specialization/ZS5RKNZ26UAB
+
+  
 Open Source Contributions
 ----------------------------------------
 - [.NET client for Orca Whirlpools (Solana)](https://github.com/garbles-labs/Orca.Unity-SDK)
@@ -153,13 +162,6 @@ Articles
 * https://www.toptal.com/ethereum/ethereum-solidity-oracle-contracts-pt2  
 * https://www.toptal.com/ethereum/oracle-contracts-tutorial-pt3 
 * [Medium Articles](https://medium.com/@john.kosinski) 
-
-
-Certifications & Awards
---------------
-* 2023 ETHOnline Hackathon, 3 prizes
-* AWS Certified Solutions Architect (Associate)
-* https://www.coursera.org/account/accomplishments/specialization/ZS5RKNZ26UAB
 
 
 Other
